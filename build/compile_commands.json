@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/shivansh/projects/sdb/build/src",
+  "command": "/usr/bin/g++  -I/home/shivansh/projects/sdb/include -I/home/shivansh/projects/sdb/src/include -g -o CMakeFiles/libsdb.dir/libsdb.cpp.o -c /home/shivansh/projects/sdb/src/libsdb.cpp",
+  "file": "/home/shivansh/projects/sdb/src/libsdb.cpp",
+  "output": "src/CMakeFiles/libsdb.dir/libsdb.cpp.o"
+},
+{
+  "directory": "/home/shivansh/projects/sdb/build/tools",
+  "command": "/usr/bin/g++  -I/home/shivansh/projects/sdb/include -isystem /home/shivansh/projects/sdb/build/vcpkg_installed/x64-linux/debug/lib/pkgconfig/../../../include -isystem /home/shivansh/projects/sdb/build/vcpkg_installed/x64-linux/debug/lib/pkgconfig/../../../include/editline -g -o CMakeFiles/sdb.dir/sdb.cpp.o -c /home/shivansh/projects/sdb/tools/sdb.cpp",
+  "file": "/home/shivansh/projects/sdb/tools/sdb.cpp",
+  "output": "tools/CMakeFiles/sdb.dir/sdb.cpp.o"
+},
+{
+  "directory": "/home/shivansh/projects/sdb/build/test",
+  "command": "/usr/bin/g++  -I/home/shivansh/projects/sdb/include -isystem /home/shivansh/projects/sdb/build/vcpkg_installed/x64-linux/include -g -o CMakeFiles/tests.dir/tests.cpp.o -c /home/shivansh/projects/sdb/test/tests.cpp",
+  "file": "/home/shivansh/projects/sdb/test/tests.cpp",
+  "output": "test/CMakeFiles/tests.dir/tests.cpp.o"
+}
+]
