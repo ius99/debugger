@@ -17,7 +17,6 @@
 			"set_property",
 			"_pkg_create_imp_target",
 			"_pkg_recalculate",
-			"_pkg_check_modules_internal",
 			"pkg_check_modules"
 		],
 		"files" : 
@@ -60,34 +59,28 @@
 				"file" : 3
 			},
 			{
-				"command" : 8,
+				"command" : 7,
 				"file" : 3,
 				"line" : 6,
 				"parent" : 5
 			},
 			{
-				"command" : 7,
-				"file" : 2,
-				"line" : 841,
-				"parent" : 6
-			},
-			{
 				"command" : 6,
 				"file" : 2,
-				"line" : 669,
-				"parent" : 7
+				"line" : 849,
+				"parent" : 6
 			},
 			{
 				"command" : 5,
 				"file" : 2,
 				"line" : 339,
-				"parent" : 8
+				"parent" : 7
 			},
 			{
 				"command" : 4,
 				"file" : 2,
 				"line" : 320,
-				"parent" : 9
+				"parent" : 8
 			}
 		]
 	},
@@ -164,7 +157,7 @@
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 10,
+				"backtrace" : 9,
 				"fragment" : "../vcpkg_installed/x64-linux/debug/lib/libedit.a",
 				"role" : "libraries"
 			},

@@ -26,4 +26,4 @@ libedit provides pkg-config modules:
   # command line editor library provides generic line editing, history, and tokenization functions.
   libedit
 
-All requested installations completed successfully in: 59.4 us
+All requested installations completed successfully in: 81.8 us
